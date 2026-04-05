@@ -4,5 +4,5 @@ deploy:
   # Deployment target: github-pages, netlify, vercel, cloudflare, or none
   host: 'github-pages'
 template:
-  id: "academic-cv"
-  name: "Academic CV"
+  id: "ZAW INTERNATIONAL RESEARCH PLATFORM"
+  name: "ZAW INTERNATIONAL RESEARCH PLATFORM"
