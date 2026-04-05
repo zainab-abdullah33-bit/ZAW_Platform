@@ -19,9 +19,14 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Projects
-    url: projects/
+ - name: Projects
+    url: 'project/'
     weight: 30
-  - name: Courses
+  - name: Researcher Login
+    url: 'auth/login'
+    weight: 100
     url: courses/
     weight: 40
+ - name: Researcher Login
+   url: 'auth/login'
+   weight: 100
